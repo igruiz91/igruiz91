@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a software engineer from Cuba
+I am a software engineer
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
