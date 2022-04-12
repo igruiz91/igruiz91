@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a software engineer
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend projects using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
 Connect with me
